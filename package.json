@@ -1,0 +1,22 @@
+{
+  "name": "@saralsms/sdk-for-node",
+  "version": "1.0.1",
+  "description": "SaralSMS SDK for the JavaScript and Node.js applications.",
+  "homepage": "https://saralsms.com",
+  "license": "MIT",
+  "author": {
+    "name": "Madan Sapkota",
+    "email": "code@madansapkota.com",
+    "url": "https://madansapkota.com"
+  },
+  "repository": {
+    "url": "git@github.com:saralsms/sdk-for-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saralsms/sdk-for-node/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "scripts": {}
+}
